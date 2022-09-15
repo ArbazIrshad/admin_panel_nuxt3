@@ -2,8 +2,11 @@
 
 <template>
   <div>
-  <Navbar />
+    <Navbar />
+    <Drawer />
   </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+
+</style>
