@@ -2,7 +2,7 @@
 
 <template>
   <div>
-  <Navbar />
+    Component: navbar
   </div>
 </template>
 
